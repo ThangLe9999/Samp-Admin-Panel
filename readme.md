@@ -1,27 +1,27 @@
 # SAMP Admin Panel
 
-## Giới Thiệu
-SAMP Admin Panel một panel giúp admin quản lý máy chủ **San Andreas Multiplayer (SAMP)** một cách dễ dàng. Panel này sử dụng thư viện [`samp-query`](https://www.npmjs.com/package/samp-query) để giao tiếp với RCON của server, cho phép thực hiện các thao tác như kiểm tra trạng thái server, danh sách người chơi, gửi lệnh RCON, v.v.
+## Introduction  
+SAMP Admin Panel is a tool that helps administrators manage **San Andreas Multiplayer (SAMP)** servers easily. It utilizes the [`samp-query`](https://www.npmjs.com/package/samp-query) library to communicate with the server's RCON, allowing actions such as checking server status, viewing player lists, sending RCON commands, and more.  
 
-## Tính Năng
-- Kết nối và lấy thông tin từ server SAMP.
-- Xem danh sách người chơi trực tuyến.
-- Gửi lệnh RCON trực tiếp từ giao diện tool.
-- Kiểm tra trạng thái server: số người chơi, ping, v.v.
-- Hỗ trợ thay đổi IP, RCON password, port trực tiếp trong tool.
+## Features  
+- Connect and retrieve information from a SAMP server.  
+- View the list of online players.  
+- Send RCON commands directly from the tool’s interface.  
+- Monitor server status: player count, ping, etc.  
+- Modify IP, RCON password, and port directly from the tool.  
 
-## Hình Ảnh Tool
-1. **Giao diện chính của tool:**
-   ![Ảnh Tool](https://i.imgur.com/U8jkDO2.png)
+## Tool Screenshots  
+1. **Main interface:**  
+   ![Tool Screenshot](https://i.imgur.com/U8jkDO2.png)  
 
-2. **Modal Cài Đặt (Thay đổi IP, RCON pass, port):**
-   ![Ảnh Modal Setting](https://i.imgur.com/GUxptiX.png)
+2. **Settings Modal (Change IP, RCON password, port):**  
+   ![Settings Modal](https://i.imgur.com/GUxptiX.png)  
 
-3. **Danh sách người chơi online:**
-   ![Ảnh Player Online](https://i.imgur.com/LRCOugc.png)
+3. **Online players list:**  
+   ![Online Players](https://i.imgur.com/LRCOugc.png)  
 
-4. **Các nút Action:**
-   ![Ảnh Action Buttons](https://i.imgur.com/FVrOf5s.png)
+4. **Action buttons:**  
+   ![Action Buttons](https://i.imgur.com/FVrOf5s.png)  
 
-## Đóng Góp
-Nếu bạn tìm thấy lỗi hoặc muốn cải tiến tính năng, hãy liên hệ qua GitHub hoặc Discord #thangle9999
+## Contributions  
+If you find any bugs or want to suggest improvements, feel free to reach out via GitHub or Discord #thangle9999.
