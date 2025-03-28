@@ -12,7 +12,7 @@ SAMP Admin Panel một panel giúp admin quản lý máy chủ **San Andreas Mul
 
 ## Hình Ảnh Tool
 1. **Giao diện chính của tool:**
-   ![Ảnh Tool](https://i.imgur.com/soR2rCp.png)
+   ![Ảnh Tool](https://i.imgur.com/322WfCE.png)
 
 2. **Modal Cài Đặt (Thay đổi IP, RCON pass, port):**
    ![Ảnh Modal Setting](https://i.imgur.com/GUxptiX.png)
